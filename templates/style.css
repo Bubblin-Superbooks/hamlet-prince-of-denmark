@@ -299,7 +299,7 @@ p.no-indent {
 }
 
 p.stretch-last-line {
-  text-align-last: justify;
+  /*text-align-last: justify;*/
   /* Not supported on Safari */
 }
 
